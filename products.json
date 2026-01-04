@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Xiaomi X21 Pro",
+    "category": "Смартфоны",
+    "price": 24990,
+    "quantity": 12,
+    "description": "Идеальный выбор для повседневного использования и работы."
+  },
+  {
+    "id": 2,
+    "name": "Samsung S90",
+    "category": "Смартфоны",
+    "price": 31990,
+    "quantity": 8,
+    "description": "Высокая производительность и яркий AMOLED-экран."
+  },
+  {
+    "id": 3,
+    "name": "Apple 32 Max",
+    "category": "Смартфоны",
+    "price": 79990,
+    "quantity": 5,
+    "description": "Флагман с передовыми технологиями и камерой Pro."
+  }
+]
