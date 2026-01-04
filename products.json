@@ -1,26 +1,402 @@
 [
   {
     "id": 1,
-    "name": "Xiaomi X21 Pro",
+    "name": "Xiaomi Redmi Note 13 Pro",
     "category": "Смартфоны",
     "price": 24990,
     "quantity": 12,
-    "description": "Идеальный выбор для повседневного использования и работы."
+    "description": "Яркий AMOLED-экран, 200 МП камера, аккумулятор на 2 дня."
   },
   {
     "id": 2,
-    "name": "Samsung S90",
+    "name": "Samsung Galaxy A54",
     "category": "Смартфоны",
     "price": 31990,
     "quantity": 8,
-    "description": "Высокая производительность и яркий AMOLED-экран."
+    "description": "Защита от воды, мощный процессор и стильный дизайн."
   },
   {
     "id": 3,
-    "name": "Apple 32 Max",
+    "name": "Apple iPhone 14",
     "category": "Смартфоны",
-    "price": 79990,
+    "price": 69990,
     "quantity": 5,
     "description": "Флагман с передовыми технологиями и камерой Pro."
+  },
+  {
+    "id": 4,
+    "name": "Realme 11 Pro+",
+    "category": "Смартфоны",
+    "price": 19990,
+    "quantity": 20,
+    "description": "Быстрая зарядка 100 Вт и стильный градиентный корпус."
+  },
+  {
+    "id": 5,
+    "name": "Tecno Camon 20",
+    "category": "Смартфоны",
+    "price": 14990,
+    "quantity": 15,
+    "description": "Селфи-камера 32 МП и ночной режим с ИИ."
+  },
+  {
+    "id": 6,
+    "name": "Xiaomi Poco X5",
+    "category": "Смартфоны",
+    "price": 17990,
+    "quantity": 10,
+    "description": "Производительность флагмана по средней цене."
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy S22 FE",
+    "category": "Смартфоны",
+    "price": 44990,
+    "quantity": 6,
+    "description": "Компактный флагман с отличной камерой."
+  },
+  {
+    "id": 8,
+    "name": "Apple iPhone SE 2022",
+    "category": "Смартфоны",
+    "price": 39990,
+    "quantity": 7,
+    "description": "Мощный чип A15 в классическом дизайне."
+  },
+  {
+    "id": 9,
+    "name": "Realme Narzo 60x",
+    "category": "Смартфоны",
+    "price": 12990,
+    "quantity": 25,
+    "description": "Бюджетный смартфон с большим аккумулятором."
+  },
+  {
+    "id": 10,
+    "name": "Tecno Spark 20 Pro",
+    "category": "Смартфоны",
+    "price": 11990,
+    "quantity": 30,
+    "description": "Стильный дизайн и яркий дисплей для повседневного использования."
+  },
+  {
+    "id": 11,
+    "name": "Lenovo IdeaPad 3",
+    "category": "Ноутбуки",
+    "price": 39990,
+    "quantity": 4,
+    "description": "Надёжный ноутбук для учёбы и работы."
+  },
+  {
+    "id": 12,
+    "name": "HP Pavilion 15",
+    "category": "Ноутбуки",
+    "price": 54990,
+    "quantity": 3,
+    "description": "Мощный процессор и дискретная видеокарта."
+  },
+  {
+    "id": 13,
+    "name": "ASUS VivoBook 14",
+    "category": "Ноутбуки",
+    "price": 42990,
+    "quantity": 5,
+    "description": "Лёгкий и стильный ноутбук с тонкими рамками."
+  },
+  {
+    "id": 14,
+    "name": "Acer Aspire 5",
+    "category": "Ноутбуки",
+    "price": 47990,
+    "quantity": 2,
+    "description": "Производительность и автономность до 10 часов."
+  },
+  {
+    "id": 15,
+    "name": "Digma CITI E214",
+    "category": "Ноутбуки",
+    "price": 29990,
+    "quantity": 8,
+    "description": "Бюджетный ноутбук для базовых задач."
+  },
+  {
+    "id": 16,
+    "name": "Lenovo ThinkPad E14",
+    "category": "Ноутбуки",
+    "price": 59990,
+    "quantity": 3,
+    "description": "Надёжность и клавиатура премиум-класса."
+  },
+  {
+    "id": 17,
+    "name": "HP 250 G9",
+    "category": "Ноутбуки",
+    "price": 34990,
+    "quantity": 6,
+    "description": "Простой и надёжный ноутбук для офиса."
+  },
+  {
+    "id": 18,
+    "name": "ASUS ExpertBook B1",
+    "category": "Ноутбуки",
+    "price": 62990,
+    "quantity": 2,
+    "description": "Деловой ноутбук с усиленным корпусом."
+  },
+  {
+    "id": 19,
+    "name": "Acer Extensa 15",
+    "category": "Ноутбуки",
+    "price": 32990,
+    "quantity": 7,
+    "description": "Надёжность и долгая гарантия."
+  },
+  {
+    "id": 20,
+    "name": "Digma N111",
+    "category": "Ноутбуки",
+    "price": 27990,
+    "quantity": 10,
+    "description": "Компактный ноутбук для студентов."
+  },
+  {
+    "id": 21,
+    "name": "JBL Tune 510BT",
+    "category": "Наушники",
+    "price": 3990,
+    "quantity": 25,
+    "description": "Беспроводные наушники с глубокими басами."
+  },
+  {
+    "id": 22,
+    "name": "Sony WH-CH520",
+    "category": "Наушники",
+    "price": 5990,
+    "quantity": 18,
+    "description": "Комфорт и до 50 часов автономности."
+  },
+  {
+    "id": 23,
+    "name": "Xiaomi Redmi Buds 4 Pro",
+    "category": "Наушники",
+    "price": 4490,
+    "quantity": 30,
+    "description": "Активное шумоподавление и быстрая зарядка."
+  },
+  {
+    "id": 24,
+    "name": "Huawei FreeBuds 5i",
+    "category": "Наушники",
+    "price": 6990,
+    "quantity": 15,
+    "description": "Hi-Res Audio и стильный дизайн."
+  },
+  {
+    "id": 25,
+    "name": "Baseus WM01",
+    "category": "Наушники",
+    "price": 2490,
+    "quantity": 40,
+    "description": "Бюджетные TWS с хорошим звуком."
+  },
+  {
+    "id": 26,
+    "name": "JBL Live 660NC",
+    "category": "Наушники",
+    "price": 9990,
+    "quantity": 10,
+    "description": "Премиум-наушники с ANC и голосовым помощником."
+  },
+  {
+    "id": 27,
+    "name": "Sony WF-C500",
+    "category": "Наушники",
+    "price": 4990,
+    "quantity": 22,
+    "description": "Компактные TWS для повседневного использования."
+  },
+  {
+    "id": 28,
+    "name": "Xiaomi Buds 4",
+    "category": "Наушники",
+    "price": 7990,
+    "quantity": 12,
+    "description": "Пространственное аудио и прозрачный режим."
+  },
+  {
+    "id": 29,
+    "name": "Huawei FreeBuds SE",
+    "category": "Наушники",
+    "price": 3490,
+    "quantity": 35,
+    "description": "Лёгкие и удобные для длительного ношения."
+  },
+  {
+    "id": 30,
+    "name": "Baseus Bowie M2",
+    "category": "Наушники",
+    "price": 1990,
+    "quantity": 50,
+    "description": "Самые доступные TWS с базовыми функциями."
+  },
+  {
+    "id": 31,
+    "name": "Xiaomi Smart Band 8",
+    "category": "Часы",
+    "price": 2990,
+    "quantity": 20,
+    "description": "Фитнес-браслет с AMOLED-экраном и 150 режимами."
+  },
+  {
+    "id": 32,
+    "name": "Huawei Watch GT 4",
+    "category": "Часы",
+    "price": 19990,
+    "quantity": 6,
+    "description": "Премиальные умные часы с GPS и ЭКГ."
+  },
+  {
+    "id": 33,
+    "name": "Apple Watch SE",
+    "category": "Часы",
+    "price": 24990,
+    "quantity": 4,
+    "description": "Идеальный баланс функций и цены от Apple."
+  },
+  {
+    "id": 34,
+    "name": "Amazfit GTR 4",
+    "category": "Часы",
+    "price": 12990,
+    "quantity": 8,
+    "description": "Автономность до 14 дней и 150 спортивных режимов."
+  },
+  {
+    "id": 35,
+    "name": "Honor Watch GS 3",
+    "category": "Часы",
+    "price": 14990,
+    "quantity": 7,
+    "description": "Элегантный дизайн и точное измерение пульса."
+  },
+  {
+    "id": 36,
+    "name": "Xiaomi Watch S1 Active",
+    "category": "Часы",
+    "price": 9990,
+    "quantity": 10,
+    "description": "Спортивные часы с прочным корпусом."
+  },
+  {
+    "id": 37,
+    "name": "Huawei Band 8",
+    "category": "Часы",
+    "price": 3990,
+    "quantity": 25,
+    "description": "Тонкий фитнес-браслет с большим экраном."
+  },
+  {
+    "id": 38,
+    "name": "Apple Watch Ultra",
+    "category": "Часы",
+    "price": 84990,
+    "quantity": 1,
+    "description": "Профессиональные часы для экстремальных условий."
+  },
+  {
+    "id": 39,
+    "name": "Amazfit Bip 5",
+    "category": "Часы",
+    "price": 5990,
+    "quantity": 15,
+    "description": "Бюджетные часы с ярким дисплеем."
+  },
+  {
+    "id": 40,
+    "name": "Honor Band 7",
+    "category": "Часы",
+    "price": 3490,
+    "quantity": 30,
+    "description": "Лёгкий и функциональный фитнес-браслет."
+  },
+  {
+    "id": 41,
+    "name": "Baseus WM01 Case",
+    "category": "Аксессуары",
+    "price": 790,
+    "quantity": 100,
+    "description": "Запасной чехол для наушников Baseus."
+  },
+  {
+    "id": 42,
+    "name": "Remax R-CP-01",
+    "category": "Аксессуары",
+    "price": 490,
+    "quantity": 200,
+    "description": "Защитное стекло для смартфонов."
+  },
+  {
+    "id": 43,
+    "name": "UGREEN USB-C кабель 100 Вт",
+    "category": "Аксессуары",
+    "price": 890,
+    "quantity": 150,
+    "description": "Сверхбыстрая зарядка и передача данных."
+  },
+  {
+    "id": 44,
+    "name": "Momax Qi Stand",
+    "category": "Аксессуары",
+    "price": 2490,
+    "quantity": 40,
+    "description": "Беспроводная зарядка в вертикальной стойке."
+  },
+  {
+    "id": 45,
+    "name": "Orico HDD Box 2.5\"",
+    "category": "Аксессуары",
+    "price": 1290,
+    "quantity": 60,
+    "description": "Внешний корпус для дисков с USB 3.0."
+  },
+  {
+    "id": 46,
+    "name": "Baseus 65 Вт GaN зарядка",
+    "category": "Аксессуары",
+    "price": 1990,
+    "quantity": 70,
+    "description": "Компактная и мощная зарядка для ноутбука."
+  },
+  {
+    "id": 47,
+    "name": "Remax R-CC-02",
+    "category": "Аксессуары",
+    "price": 390,
+    "quantity": 300,
+    "description": "USB-C кабель 1.5 м, плетёный."
+  },
+  {
+    "id": 48,
+    "name": "UGREEN HDMI 2.1 кабель",
+    "category": "Аксессуары",
+    "price": 1490,
+    "quantity": 50,
+    "description": "Для подключения 4K/120 Гц устройств."
+  },
+  {
+    "id": 49,
+    "name": "Momax Car Mount",
+    "category": "Аксессуары",
+    "price": 1790,
+    "quantity": 80,
+    "description": "Автомобильный держатель для смартфона."
+  },
+  {
+    "id": 50,
+    "name": "Orico Type-C Hub",
+    "category": "Аксессуары",
+    "price": 2990,
+    "quantity": 25,
+    "description": "USB-хаб с HDMI, SD-слотом и USB-A портами."
   }
 ]
